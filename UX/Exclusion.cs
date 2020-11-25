@@ -142,7 +142,7 @@ namespace Freeze.UX
         private readonly StackLayout split;
         private readonly Splitter verticalSplit;
         private readonly ListBox current, next;
-        private readonly Button addFolder, addFile, removeFile, removeFolder;
+        private readonly Button addFolder, addFile;
         private readonly ContextMenu contextMenu;
     }
 }
